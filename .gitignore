@@ -1,3 +1,4 @@
 # Learning gitignore stuff
 secrets.txt
 testDir2/hidden.txt
+file2.txt
